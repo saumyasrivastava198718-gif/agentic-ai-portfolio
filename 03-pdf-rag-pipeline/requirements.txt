@@ -1,0 +1,10 @@
+pymupdf
+sentence-transformers
+chromadb
+numpy
+requests
+streamlit
+python-dotenv
+google-genai
+torchvision
+pytest
