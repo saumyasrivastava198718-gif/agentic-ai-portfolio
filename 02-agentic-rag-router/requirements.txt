@@ -1,0 +1,12 @@
+google-genai
+python-dotenv
+pydantic
+pymupdf
+sentence-transformers
+chromadb
+streamlit
+pytest
+requests
+ddgs
+torchvision
+torch
