@@ -1,0 +1,27 @@
+SOURCE_ID: diversification
+TITLE: Diversification Principle
+Diversification spreads exposure across different assets or asset classes. It can reduce concentration risk, although it cannot eliminate investment risk.
+
+SOURCE_ID: concentration
+TITLE: Concentration Risk
+A portfolio concentrated in a small number of securities, sectors, industries, or geographic regions can be more sensitive to adverse developments affecting those exposures.
+
+SOURCE_ID: liquidity
+TITLE: Liquidity Principle
+Liquidity refers to the ability to convert an asset into cash without substantially affecting its price. Liquidity needs should be considered when evaluating a portfolio.
+
+SOURCE_ID: horizon
+TITLE: Investment Time Horizon
+Time horizon can influence the amount and type of investment risk an investor may be able to tolerate. Shorter horizons create different liquidity and volatility considerations than longer horizons.
+
+SOURCE_ID: rebalancing
+TITLE: Portfolio Rebalancing
+Rebalancing is the process of restoring a portfolio toward a chosen allocation. Potential transaction costs, taxes, constraints and investment objectives should be considered before taking action.
+
+SOURCE_ID: uncertainty
+TITLE: Decision Uncertainty
+Financial decisions involve uncertainty. Model-generated recommendations should not be treated as guarantees, and confidence indicators should not be interpreted as calibrated probabilities unless specifically validated.
+
+SOURCE_ID: human_review
+TITLE: Human Review Principle
+Automated financial decision-support systems should clearly distinguish analysis from execution. Material financial actions should remain subject to explicit user review and authorization in this prototype.
